@@ -19,4 +19,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ripplecube.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="pattern.vert">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="ripplecube.vert">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>

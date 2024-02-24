@@ -1,0 +1,4 @@
+
+0(63) : error C1503: undefined variable "uReflectUnity"
+0(77) : error C1035: assignment of incompatible types
+
